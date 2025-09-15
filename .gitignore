@@ -4,3 +4,5 @@ data/
 plots/
 
 results/
+
+.DS_Store
