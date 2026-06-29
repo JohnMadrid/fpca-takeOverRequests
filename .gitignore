@@ -1,8 +1,24 @@
 
 data/
 
-plots/
+plots/*
+# but DO commit the curated keep/ subfolder (approved session images)
+!plots/keep/
 
 results/
 
 .DS_Store
+.claude/settings.local.json
+
+# Never commit raw (un-gzipped) transcripts; only the gzipped ones the sync engine writes
+claude-context/transcripts/*.jsonl
+
+# --- junk / non-work (added during sync setup) ---
+trash/
+TEMP/
+archive/
+nul
+Analysis_ED_PCA.backup_premerge.ipynb
+
+# --- session image staging (moved to plots/ on /shutdown if you confirm) ---
+claude-context/session-images/
