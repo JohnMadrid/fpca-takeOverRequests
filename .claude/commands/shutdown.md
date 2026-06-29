@@ -56,8 +56,12 @@ push result. If the push failed, say so plainly and show the error; do not claim
 success.
 
 ## Notes
-- The big raw transcript of THIS session is expected to be skipped (over the cap);
-  that is intended. Its continuity lives in `LAST_SUMMARY.md` + memory, and the
-  full file is carried to new devices once by hand via `scripts/claude_onboard.py`.
+- Nothing is stripped or reduced. Files commit whole. The ONLY exception: any file
+  whose GZIP exceeds ~150 MB is not committed (it stays USB-only and must be
+  summarised in `LAST_SUMMARY.md`). Notebooks gzip to tens of MB, so they commit
+  normally; this cap only catches genuine monsters like raw 900 MB transcripts.
+- The full history (including the big transcript) is carried to new devices once by
+  hand via `scripts/claude_onboard.py`. Daily git then carries memory, summary, and
+  all sub-cap changes.
 - This command compacts FIRST (step 0), then writes the handoff and syncs, so you
   never have to run /compact separately.

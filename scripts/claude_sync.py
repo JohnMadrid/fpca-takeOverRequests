@@ -139,6 +139,34 @@ def discard_images():
         os.remove(p)
     print(f"Discarded {len(imgs)} staged image(s) (not committed).")
 
+def _oversized_tracked_or_new():
+    """Return [(relpath, gz_mb), ...] for files git would commit whose GZIP size
+    exceeds SKIP_CAP_MB. These stay USB-only and are summarised, not committed."""
+    import tempfile
+    r = sh(["git", "add", "-A", "--dry-run"], check=False).stdout
+    paths = []
+    for line in r.splitlines():
+        line = line.strip()
+        if line.startswith("add '") and line.endswith("'"):
+            paths.append(line[len("add '"):-1])
+    out = []
+    for rel in paths:
+        full = os.path.join(PROJECT_ROOT, rel)
+        if not os.path.isfile(full):
+            continue
+        # cheap pre-filter: only gzip-test files whose RAW size could possibly
+        # exceed the cap (gzip never grows data meaningfully for our content).
+        if mb(full) <= SKIP_CAP_MB:
+            continue
+        tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".gz"); tmp.close()
+        try:
+            gzip_file(full, tmp.name); gz = mb(tmp.name)
+        finally:
+            os.remove(tmp.name)
+        if gz > SKIP_CAP_MB:
+            out.append((rel, gz))
+    return out
+
 # ============================================================ shutdown
 def do_shutdown():
     os.makedirs(CTX_MEM, exist_ok=True)
@@ -183,10 +211,23 @@ def do_shutdown():
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
 
-    # 5) git add/commit/push
+    # 5) size guard: refuse to commit any file whose GZIP exceeds the cap.
+    #    Such files stay USB-only and must be summarised in LAST_SUMMARY.md.
+    #    (Notebooks gzip to tens of MB, well under the cap; this only catches
+    #    genuine monsters like raw 900 MB transcripts.)
+    oversized = _oversized_tracked_or_new()
+    if oversized:
+        report["oversized_skipped"] = oversized
+        print("These files exceed the gzip cap and will NOT be committed "
+              "(carry by USB, summarise in LAST_SUMMARY.md):")
+        for f, gz in oversized:
+            print(f"  {f}  ({gz:.0f} MB gz)")
+
+    # 6) git add/commit/push -- stage everything except the oversized files
     sh(["git", "add", "-A", "claude-context"], check=True)
-    # include the working tree too (notebooks etc.) -- caller may have staged already
     sh(["git", "add", "-A"], check=True)
+    for f, _gz in oversized:
+        sh(["git", "reset", "-q", "HEAD", "--", f], check=False)
     date = datetime.date.today().isoformat()
     status = sh(["git", "status", "--porcelain"]).stdout.strip()
     if not status:
@@ -210,6 +251,8 @@ def _print_report(r):
         print(f"  transcript SKIPPED   : {s['session']}  ({s['gz_mb']} MB gz > {SKIP_CAP_MB} MB cap)")
     if r["skipped"]:
         print("  -> skipped sessions are summarised in LAST_SUMMARY.md, not carried raw.")
+    for f, gz in r.get("oversized_skipped", []):
+        print(f"  file NOT committed   : {f}  ({gz:.0f} MB gz > {SKIP_CAP_MB} MB) -> USB + summarise")
 
 # ============================================================ start
 def do_start():
