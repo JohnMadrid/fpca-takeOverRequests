@@ -1,0 +1,16 @@
+numpy==2.2.6
+pandas==2.1.4
+scipy==1.15.1
+matplotlib==3.10.0
+seaborn==0.13.2
+scikit-learn==1.6.1
+# statsmodels: NOT installed on home machine (imported but unused/optional)
+scikit-fda==0.10.1
+dask==2025.9.1
+# plotly: NOT installed on home machine (imported but unused/optional)
+tqdm==4.67.1
+ipython==8.31.0
+ipywidgets==8.1.7
+pathos==0.3.3
+notebook==7.3.2
+ipykernel==6.29.5
