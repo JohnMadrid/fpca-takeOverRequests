@@ -22,3 +22,7 @@ Analysis_ED_PCA.backup_premerge.ipynb
 
 # --- session image staging (moved to plots/ on /shutdown if you confirm) ---
 claude-context/session-images/
+.venv/
+.vscode/
+__pycache__/
+*.pyc
