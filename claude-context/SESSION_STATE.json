@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-30T15:10:17",
+  "updated": "2026-09-24T20:04:50",
   "source_project_dir": "C--Users-willi",
   "last_n": 3,
   "skip_cap_mb": 150,
   "carried": [
     {
       "session": "391ce050-8ead-4f72-a500-c1d510fad3e8",
-      "gz_mb": 9.6
-    },
-    {
-      "session": "05de575d-8c28-47fd-a456-a2c1d6777f43",
-      "gz_mb": 0.0
+      "gz_mb": 56.7
     },
     {
       "session": "b10b5509-e929-43ac-8d4e-3a7bc39a2891",
-      "gz_mb": 9.5
+      "gz_mb": 65.1
+    },
+    {
+      "session": "95695e2e-c2f1-4c34-affa-bd05f313a0f2",
+      "gz_mb": 12.6
     }
   ],
   "skipped": []

@@ -1,0 +1,187 @@
+id,date,age,gender,Performance Expectancy 1,Performance Expectancy 2,Performance Expectancy 3,Effort Expectancy 1,Effort Expectancy 2,Effort Expectancy 3,Social Influence 1,Social Influence 2,Social Influence 3,Facilitating Conditions 1,Facilitating Conditions 2,Facilitating Conditions 3,Attitude towards Technology 1,Attitude towards Technology 2,Attitude towards Technology 3,Self-Efficacy 1,Self-Efficacy 2,Self-Efficacy 3,Anxiety  1,Anxiety 2,Anxiety 3,Behavioral Intention 1,Behavioral Intention 2,Perceived safety 1,Perceived safety 2,Perceived safety 3,Methods of Control 1,Methods of Control 2,Methods of Control 3,Driving licence,weekly drive,driving reason,gaming experience,VR experience,racing experience
+801c5441038b4e298b3c91c9f6784986,2020-09-19 09:31:22,30,Männlich,4,4,4,4,4,1,4,4,4,4,4,4,6,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4, Nein,36,Arbeit,99,Oft,Selten
+cd59ccc5e16840b78e9b29a1bbafc571,2020-09-19 11:12:47,19,Männlich,5,7,4,5,6,7,5,6,5,5,5,6,4,4,7,5,6,3,1,2,3,7,6,2,6,6,7,7,7,Ja ,15,Privater Transport ,18,Selten,Oft
+851861aa8d4748f1a179aa60b482b505,2020-09-19 11:39:13,28,Weiblich,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,3,7,7,4,1,1,7,1,1,7,7,4,Ja ,3,Arbeit,0,Selten,Manchmal
+f0d19dd21d9c4d108419ff0982fb8a00,2020-09-19 11:45:28,30,Weiblich,3,2,3,4,7,7,7,1,1,5,7,4,2,3,4,7,6,1,6,4,1,3,2,5,3,2,7,7,7,Ja ,10,Arbeit,4,Selten,Selten
+8c3f910d2ca947e9abe0cf5786c40ed3,2020-09-19 12:13:40,55,Männlich,4,4,5,5,5,7,3,4,5,4,6,5,6,5,6,3,3,2,4,5,3,6,2,5,5,5,7,7,7,Ja ,10,Privater Transport ,4,Selten,Selten
+ff4288f304e74bbf93aa6508c7df8145,2020-09-19 12:38:13,13,Weiblich,7,4,3,5,5,6,7,6,7,3,5,6,2,7,6,7,7,7,6,6,6,2,2,6,1,1,7,5,7, Nein,0,zum Vergnügen,25,Noch Nie,Manchmal
+a3bf7bf25cb54d37b0876393df38aa5f,2020-09-19 12:43:45,13,Weiblich,3,4,3,4,4,3,3,3,3,3,4,4,3,4,3,4,4,4,5,6,4,3,3,6,3,3,5,5,4, Nein,0,zum Vergnügen,5,Selten,Selten
+22a1a4a35db9490d8dd8d69621690029,2020-09-19 13:06:04,13,Männlich,5,5,3,7,5,5,7,1,5,6,3,5,3,5,6,6,5,3,1,6,6,7,3,3,5,3,7,7,7, Nein,0,Privater Transport ,25,Noch Nie,Selten
+81b4ef081c7f4f70b90f414b5d0144bf,2020-09-19 13:34:31,41,Männlich,2,5,3,2,3,5,5,5,6,2,3,5,4,6,4,5,6,3,5,5,4,5,5,5,3,2,6,6,6,Ja ,30,zum Vergnügen,4,Noch Nie,Selten
+bf6200b3d8964cfb95a76d7156871682,2020-09-19 15:35:01,41,Männlich,1,3,4,5,6,6,7,7,4,3,5,3,2,7,6,4,5,4,7,6,1,4,2,6,2,1,7,7,7,Ja ,2,Privater Transport ,1,Noch Nie,Selten
+9ef3688b30eb405c9bc92ff7cc527955,2020-09-19 15:38:13,17,Männlich,5,2,4,2,3,3,4,4,4,2,3,4,4,5,5,3,2,6,3,2,4,2,5,4,5,4,7,7,7, Nein,0,Arbeit,19,Selten,Manchmal
+fa2e2604ec6a4820851f032e80f09ba1,2020-09-20 11:44:48,16,Männlich,4,5,5,3,3,5,7,5,5,5,2,5,5,5,5,4,6,4,3,4,3,5,4,2,4,4,6,6,5, Nein,0,Privater Transport ,0,Noch Nie,Selten
+b114be91b8144db2b503d0391f4868ef,2020-09-20 12:10:46,25,Weiblich,4,3,3,5,5,6,4,3,4,5,6,5,3,2,5,6,6,5,5,4,2,6,2,4,3,3,7,6,5,Ja ,5,Privater Transport ,16,Oft,Oft
+fd19a21a4a8846ca82bd127e4e1933f5,2020-09-20 12:32:33,17,Männlich,1,6,6,6,5,7,4,3,5,5,7,1,5,7,6,3,7,5,4,2,3,6,6,5,6,3,7,7,6, Nein,0,zum Vergnügen,15,Selten,Oft
+c141c1065c1b45a9bffe0a89a7032662,2020-09-20 12:50:53,22,Männlich,6,6,6,4,4,5,5,3,4,5,6,5,6,6,6,6,4,5,2,4,3,4,6,3,5,4,4,6,6, Nein,0,Privater Transport ,3,Noch Nie,Selten
+acfee71f81c443c2bd5b2290e5fd120c,2020-09-20 13:07:05,17,Männlich,3,5,6,5,4,5,4,2,3,5,5,3,5,2,6,3,6,4,5,3,3,7,2,4,6,5,6,5,5, Nein,0,zum Vergnügen,35,Selten,Selten
+7c0436814ca14e00bfab565cb89f4039,2020-09-20 13:19:26,15,Männlich,4,4,4,5,5,6,1,4,4,3,4,5,5,1,2,4,6,6,6,5,2,1,1,6,2,1,6,6,5, Nein,0,Privater Transport ,50,Noch Nie,Selten
+8753a7212b79463e9b80143314a63a39,2020-09-20 13:31:27,46,Männlich,4,4,4,3,3,4,4,4,5,4,4,4,4,2,2,4,3,3,3,3,3,4,4,2,2,4,7,3,5,Ja ,20,Privater Transport ,0,Noch Nie,Noch Nie
+861f9d156a7a4372adc36d4cba454abb,2020-09-20 13:48:45,13,Männlich,7,6,7,7,4,6,7,7,5,7,2,7,5,4,7,7,7,1,3,3,2,7,4,6,1,2,7,6,7, Nein,0,zum Vergnügen,10,Noch Nie,Selten
+a710f3de91aa4ab1855aea34eb52a03e,2020-09-20 13:54:31,16,Weiblich,5,7,5,6,6,5,7,7,5,6,1,5,6,4,5,5,3,7,2,3,1,6,5,4,6,6,6,7,6,Ja ,0,Privater Transport ,0,Noch Nie,Selten
+0117810eb9634c4f98f842021ee6a595,2020-09-20 14:32:17,14,Weiblich,3,5,5,3,4,3,2,2,6,3,3,4,3,1,4,4,5,4,1,5,3,4,4,4,3,1,5,6,5, Nein,0,Privater Transport ,2,Noch Nie,Noch Nie
+b298967064b144a4bbe4507238e66a80,2020-09-20 14:33:16,14,Weiblich,2,6,3,5,7,4,6,7,4,5,5,4,5,6,6,6,3,5,4,4,5,5,7,2,4,3,7,7,5, Nein,0,Privater Transport ,0,Selten,Selten
+09a23914cf354ea39444511406d16722,2020-09-20 15:08:17,12,Männlich,6,2,5,5,6,6,1,5,1,7,2,5,6,6,5,7,5,4,6,5,4,6,5,7,4,4,7,6,6, Nein,0,zum Vergnügen,4,Noch Nie,Manchmal
+c184e2d2fcc14fa8ac9c8f7b716537b7,2020-09-20 15:44:53,18,Männlich,1,1,5,7,7,7,1,1,4,7,7,5,1,1,1,7,7,1,7,1,1,1,1,1,1,4,7,7,6,Ja ,2,zum Vergnügen,40,Manchmal,Oft
+228bdb9398f6492092c45467428bb95a,2020-09-20 15:45:04,12,Männlich,7,4,4,4,4,4,4,5,4,4,3,6,4,4,7,4,4,4,4,1,5,7,6,2,6,7,4,4,4, Nein,0,zum Vergnügen,5,Noch Nie,Manchmal
+de17edda8c414228b075ee25c75c6c69,2020-09-20 16:10:56,46,Männlich,1,4,2,4,4,4,1,4,4,1,4,4,1,2,4,4,4,4,7,1,1,1,1,7,1,1,4,7,7,Ja ,20,Arbeit,0,Noch Nie,Noch Nie
+edb7b59f47a24fa1bab1b853790cd0ab,2020-09-20 16:12:02,11,Weiblich,7,7,7,7,7,7,7,1,1,7,1,7,7,7,7,7,7,7,1,1,1,7,7,1,7,7,7,7,5, Nein,0,zum Vergnügen,0,Noch Nie,Noch Nie
+09e9bc26ef584ef29e0e4512f3ad9667,2020-09-20 16:32:30,21,Weiblich,4,4,1,7,4,7,7,7,4,2,4,1,2,4,4,1,4,4,4,1,1,7,7,4,1,1,7,7,7,Ja ,10,Privater Transport ,0,Manchmal,Manchmal
+62ed0ba3df27446c897e4544c7e8a960,2020-09-20 16:49:16,18,Weiblich,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,2,2,3,6,6,2,6,4,7,2,3,Ja ,5,Privater Transport ,10,Noch Nie,Selten
+40ffa04f4781418c946b01206562b124,2020-09-20 16:52:45,22,Männlich,4,4,4,4,4,7,3,4,4,7,4,4,2,2,4,4,4,4,4,4,7,3,4,4,5,4,4,7,7,Ja ,36,Privater Transport ,1,Manchmal,Oft
+867545b969cc4ff088b70eab632671dd,2020-09-20 17:12:16,26,Männlich,4,7,7,6,4,7,7,4,6,2,7,7,7,5,7,2,7,4,2,2,1,7,6,1,7,5,7,6,6,Ja ,10,Arbeit,40,Selten,Selten
+3de6823af97441c18c8ca5f169b6e896,2020-09-20 17:15:28,21,Männlich,2,2,4,6,5,6,1,6,5,1,7,2,3,7,5,6,6,5,6,6,2,3,2,2,3,2,6,7,2,Ja ,14,Arbeit,50,Noch Nie,Noch Nie
+8b27ff8591af4cd79067cf156d23ab95,2020-09-26 13:47:16,13,Männlich,5,3,4,7,6,4,4,4,4,5,4,4,5,6,4,4,3,4,5,4,3,4,4,4,4,4,4,4,7, Nein,0,zum Vergnügen,0,Noch Nie,Selten
+9e731cf5dc92410698403de48f4dfd8c,2020-09-26 13:51:39,25,Weiblich,2,1,2,1,2,1,2,1,1,6,6,2,2,2,2,2,1,4,2,7,4,2,2,7,1,1,7,2,2, Nein,0,Privater Transport ,0,Noch Nie,Noch Nie
+d658fcf05c3d4944ad0020f42148184f,2020-09-26 14:11:01,25,male,7,7,6,7,7,7,7,2,7,6,6,6,7,7,7,5,5,2,2,2,1,4,7,2,7,7,7,7,7,Yes ,5,pleasure,5,Never,Sometimes
+cd9a3616783e49b787244cd621e9cdb9,2020-09-26 14:12:40,24,female,7,7,7,7,7,6,6,6,4,2,1,7,7,6,7,6,4,7,2,6,2,6,7,2,7,6,7,6,3, No,0,work,0,Never,Never
+677eb13e053d46edb23876a1cf070e34,2020-09-26 14:36:59,28,Männlich,1,4,2,2,6,7,7,4,4,5,6,6,4,1,1,7,6,6,6,6,1,1,2,7,1,1,7,6,6,Ja ,10,Arbeit,20,Manchmal,Selten
+a0cd3c82306a47a68d7d048f1fe05286,2020-09-26 14:41:52,17,Männlich,4,5,6,4,6,7,7,5,3,4,6,4,6,6,5,5,6,5,1,4,2,5,4,3,3,6,7,7,7,Ja ,2,Arbeit,2,Selten,Manchmal
+71bc29ba9b3c415f8575dcfb484a5fe2,2020-09-26 15:11:46,18,Männlich,1,7,3,7,7,7,7,4,2,6,7,3,7,1,7,1,7,7,5,2,1,7,7,2,4,5,7,7,7,Ja ,5,Privater Transport ,7,Selten,Noch Nie
+ad89416f02be4aacaf401afabc0e00e8,2020-09-26 15:35:04,19,Männlich,3,4,3,5,2,6,7,7,6,6,2,4,2,6,3,2,6,2,6,2,4,6,7,5,2,1,7,7,7,Ja ,12,Arbeit,0,Noch Nie,Noch Nie
+0037b2329de444c18d751b4e79901b39,2020-09-26 15:59:39,32,Männlich,4,2,2,4,6,6,2,2,4,3,7,6,2,1,1,7,7,1,7,4,2,2,1,7,2,2,7,4,4,Ja ,4,Privater Transport ,14,Selten,Selten
+b257a7a2aaf9485181bd9b8d6e851c15,2020-09-26 16:02:20,24,Weiblich,4,5,6,4,4,6,4,3,4,5,6,4,5,4,4,4,6,4,5,5,1,4,5,6,4,3,7,4,4,Ja ,8,Privater Transport ,0,Noch Nie,Selten
+36d1fc163246486b80956b4789fe6fa7,2020-09-27 11:22:39,27,Männlich,2,4,6,6,6,6,7,5,3,7,7,7,7,4,7,7,7,7,2,1,2,7,7,2,6,6,7,7,7,Ja ,4,Arbeit,0,Noch Nie,Selten
+199ee7cf632b42f89ca5771ba3d3e08f,2020-09-27 11:39:23,47,Männlich,5,6,6,6,5,6,6,6,7,6,5,6,6,6,6,2,5,5,3,3,3,5,6,2,6,6,5,6,6,Ja ,16,Arbeit,5,Manchmal,Selten
+c5608223a11448d98a8ef6a497af5c07,2020-09-27 11:48:38,53,Männlich,5,2,6,4,5,6,3,5,4,6,6,4,5,2,6,4,2,4,1,4,1,6,6,3,5,3,6,7,6,Ja ,20,Arbeit,1,Selten,Selten
+8d73ff4eb38f4c01b24ffda0981d3f3e,2020-09-27 12:03:35,17,Weiblich,5,4,4,7,4,4,7,7,6,4,5,4,6,7,4,4,7,4,7,1,4,6,6,1,6,4,7,7,5, Nein,1,Arbeit,0,Noch Nie,Noch Nie
+29006bddb3e8430582165c73bc7af864,2020-09-27 12:13:40,19,Männlich,3,4,2,6,5,4,4,3,4,3,2,6,5,2,5,4,4,5,4,5,4,7,7,5,3,4,5,5,5,Ja ,2,Arbeit,1,Noch Nie,Selten
+ff5026837ead4091afc0026b9e2142ac,2020-09-27 12:27:08,55,Männlich,5,4,5,3,4,5,5,4,5,4,6,4,6,6,4,5,6,6,6,4,4,6,5,3,6,5,5,4,5,Ja ,12,Arbeit,0,Selten,Noch Nie
+9781349ffdbb4d38862d24d388ab4295,2020-09-27 12:38:58,47,Männlich,6,6,6,3,5,4,5,1,3,4,4,4,7,4,4,4,7,3,4,2,4,5,6,4,5,3,5,4,5,Ja ,6,Arbeit,4,Selten,Noch Nie
+ab52a15247f949cabdadee76a6cf2fc6,2020-09-27 12:50:52,19,Männlich,4,4,2,2,1,4,2,1,1,4,6,4,2,4,2,1,2,5,7,7,7,1,1,4,2,3,7,7,7,Ja ,10,Privater Transport ,10,Noch Nie,Manchmal
+9c657fb86e9847bfbcd377a19157a71d,2020-09-27 13:02:21,25,Männlich,5,2,6,2,5,7,6,6,4,7,7,3,7,3,5,6,7,2,1,2,2,6,5,2,6,7,6,6,6,Ja ,4,Privater Transport ,20,Selten,Manchmal
+72d882a3b9ec490bade6cb620b2b89c5,2020-09-27 13:11:55,17,Männlich,6,4,2,2,3,5,7,7,1,2,7,6,7,2,6,5,7,7,2,2,1,1,2,5,3,3,6,6,6,Ja ,2,Privater Transport ,5,Noch Nie,Selten
+e278f318559a49c09266bd5a19d2f41c,2020-09-27 13:24:41,40,Männlich,4,4,4,2,3,5,3,4,3,4,4,5,4,3,6,3,2,4,6,3,5,2,4,6,3,2,7,7,4,Ja ,2,Arbeit,0,Noch Nie,Noch Nie
+814f4159a5a14ea3afc13a683d0197c9,2020-09-27 13:33:05,56,Weiblich,1,3,3,4,3,3,5,3,2,3,3,3,3,3,1,3,3,2,6,3,5,6,5,3,5,2,7,5,7,Ja ,6,Arbeit,0,Noch Nie,Noch Nie
+311d107d0dbb466fb77b634971167c8b,2020-09-27 13:45:20,51,Männlich,4,4,3,6,7,4,1,1,1,2,7,7,1,4,4,2,4,6,6,6,5,4,2,5,2,1,7,7,6,Ja ,30,Arbeit,0,Selten,Noch Nie
+d5ff3f0d2ecd4865acf6954168148558,2020-09-27 13:58:31,14,Weiblich,4,4,2,3,3,3,1,5,5,4,2,4,2,5,4,3,3,4,7,3,4,4,5,5,3,1,7,6,6, Nein,4,Privater Transport ,0,Noch Nie,Selten
+6f7a67231a16454dbd657d2f48443aac,2020-09-27 14:21:41,33,Weiblich,1,5,1,1,2,1,1,5,2,1,2,2,1,1,1,4,3,2,7,7,6,1,2,6,1,1,7,7,7,Ja ,2,Arbeit,0,Noch Nie,Noch Nie
+f3638c47301a4e3691a6289cdcddc8d0,2020-09-27 14:36:42,27,male,6,7,6,5,3,6,7,1,2,3,7,7,7,7,7,7,7,2,2,5,1,7,7,2,6,5,6,6,2,Yes ,1,work,4,Occasionally,Sometimes
+a7da330198d5442d92f4cb9a3ab49a62,2020-09-27 15:03:19,18,Weiblich,6,2,2,2,6,6,5,6,2,7,6,6,1,6,1,6,7,2,5,7,2,6,3,6,6,6,6,5,2, Nein,0,zum Vergnügen,0,Selten,Noch Nie
+0bc17d704fec4a9eb892d905fc2e5da9,2020-09-27 15:04:45,15,Weiblich,7,4,4,4,4,7,7,4,7,2,7,7,1,7,4,4,7,4,7,4,4,6,7,7,7,7,4,7,7, Nein,0,zum Vergnügen,0,Noch Nie,Noch Nie
+f6bf93fa2bb14083849d203d285bb594,2020-09-27 15:33:19,30,Männlich,2,7,7,7,7,7,3,6,6,6,6,7,6,3,6,7,7,7,2,2,2,7,7,1,5,4,7,7,6,Ja ,2,Privater Transport ,6,Noch Nie,Manchmal
+a466d4a8a3744a0195a568a1436bd7f2,2020-09-27 16:14:57,46,male,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,4,7,7,1,7,7,7,7,7,Yes ,0,work,0,Occasionally,Occasionally
+b041b78d359c4763a53246d5ede93ffd,2020-09-27 16:17:38,37,male,3,4,2,5,3,5,4,5,3,5,5,5,2,4,6,4,4,4,4,5,3,3,3,4,3,3,6,5,6,Yes ,20,pleasure,20,Often,Often
+7736a53b63874dde915148a2f4f4a753,2020-09-27 16:37:08,45,Männlich,4,6,3,3,4,4,5,4,3,3,4,3,4,3,3,4,3,3,4,6,4,6,4,5,3,3,7,6,4,Ja ,25,Arbeit,0,Selten,Selten
+221ef734e10c4139a22519cd623f715a,2020-09-27 17:15:02,17,Weiblich,5,5,5,4,4,6,6,7,7,4,5,6,5,7,6,3,7,6,3,4,4,6,4,4,5,5,7,7,5, Nein,0,Privater Transport ,2,Noch Nie,Oft
+3b4445b1f502437dab3e11c5eaeed1ee,2020-09-29 15:33:59,27,Weiblich,3,4,2,2,2,4,2,3,5,4,3,6,1,3,3,2,2,4,7,6,6,3,2,7,2,1,7,6,6,Ja ,5,Privater Transport ',0,Selten,Selten
+cdc892a8498f4de8ba7563d28c02aa21,2020-09-30 14:16:18,33,female,6,7,7,6,6,7,5,6,7,4,7,5,6,6,6,6,7,4,3,2,2,6,7,3,6,5,7,5,7,Yes ,7,work',0,Occasionally,Never
+5a99db5eeb8748db8a3a86f9015f78bd,2020-09-30 14:45:29,28,Männlich,2,4,1,2,2,2,2,2,1,2,2,4,2,3,2,3,5,4,6,5,4,4,2,6,3,1,6,6,2,Ja,1,Privater Transport ',10,Selten,Selten
+b7f065b7dbbe442485552fa041d44b20,2020-10-01 11:01:47,30,male,6,6,3,7,4,7,7,7,4,4,7,4,7,7,6,7,7,7,6,6,7,7,7,4,6,4,7,7,7, No,0,pleasure,10,Occasionally,Occasionally
+176031ab861f4d95bb7e3ec044879a65,2020-10-01 11:29:54,22,female,3,6,6,5,5,6,5,6,3,5,4,5,5,2,5,5,7,6,5,4,2,5,3,5,3,5,7,7,7,Yes ,1,freetime,0,Occasionally,Never
+c09f04f2c4bc40e48febedb7456baa6b,2020-10-01 15:33:46,33,Männlich,6,4,6,5,6,7,6,2,4,7,6,6,6,7,7,6,7,7,2,2,2,7,7,2,6,6,5,6,6,Ja ,4,Privater Transport ,0,Selten,Selten
+7e7865d70c3c445a9a90aa6cc953ad67,2020-10-01 17:29:36,31,female,6,2,5,3,3,6,3,6,3,3,2,6,5,5,4,6,5,4,7,6,5,5,5,5,5,3,7,6,6,Yes ,0,freetime,2,Never,Never
+e635375fe03d455384d473da39fd48e1,2020-10-03 14:22:45,30,Männlich,5,7,6,6,5,6,5,4,4,6,7,7,6,7,7,6,7,1,1,4,3,7,7,5,7,5,5,5,5,Ja ,0,Privater Transport ,2,Selten,Manchmal
+dd0e05a14d034ac996d6d78b9b74d2e3,2020-10-03 14:48:48,30,Männlich,7,7,6,7,7,5,7,4,1,5,7,7,7,6,7,7,4,4,1,1,1,6,6,1,7,7,7,7,7,Ja ,0,Privater Transport ,4,Noch Nie,Selten
+56341d0729234d90ae05458aab4b43c4,2020-10-06 11:32:05,24,male,2,7,3,5,4,4,6,4,5,5,6,5,5,1,2,4,7,7,6,6,2,2,4,5,4,3,7,7,7,Yes ,4,work,6,Often,Occasionally
+b9620a4e3556466089591e8cdb4fe7ca,2020-10-06 17:12:06,23,Männlich,4,4,2,6,2,6,1,6,6,2,7,7,2,2,6,6,7,7,7,3,2,1,1,6,1,6,7,7,7,Ja ,2,Privater Transport ,2,Selten,Selten
+beeea83429274984b2b016773492d208,2020-10-06 17:49:36,24,male,4,5,3,7,6,6,6,4,3,2,5,4,4,3,7,4,6,6,5,2,3,6,5,4,5,4,6,5,6,Yes ,4,freetime,28,Sometimes,Occasionally
+6ad4d759b7eb4ff392f6db00aec7678f,2020-10-07 14:43:45,21,Männlich,4,4,5,5,7,7,6,2,4,5,6,4,6,5,7,5,7,7,5,2,1,6,6,2,3,2,6,7,7,Ja ,1,Privater Transport ,0,Noch Nie,Selten
+3eac1d7156994e69a8df336b7304b550,2020-10-08 14:59:29,30,male,6,7,7,6,7,7,7,7,7,6,7,6,7,6,7,6,7,2,2,1,2,7,6,2,7,7,7,7,7,Yes ,0,pleasure,1,Never,Occasionally
+f8199c55b531448aa14b053f0b1c099b,2020-10-08 17:42:06,25,Männlich,4,7,6,6,5,7,5,6,3,4,7,4,6,3,5,5,5,7,4,2,1,4,5,3,5,5,7,6,5,Ja ,0,Privater Transport ,12,Selten,Manchmal
+c5253fb4bc5143118ac36b4e98f43dda,2020-10-09 15:52:54,22,Männlich,7,7,6,7,7,7,7,1,3,6,7,7,6,6,5,7,6,7,1,2,1,7,7,1,6,6,6,5,6,Ja ,3,zum Vergnügen,20,Selten,Manchmal
+e3fcd0edd66947a483448ac28b5003b3,2020-10-12 17:26:00,25,Männlich,5,5,3,2,4,3,4,2,4,3,5,6,4,4,3,6,4,6,6,5,3,3,2,5,3,2,7,7,7,Ja,0,Privater Transport ,20,Noch Nie,Selten
+e40b4970b774409c9a98119ab5852b46,2020-10-13 09:48:49,22,Weiblich,4,3,1,1,3,3,1,1,1,1,6,5,1,3,1,3,1,2,7,7,3,1,1,7,1,1,7,6,6,Ja ,0,Privater Transport ,3,Selten,Selten
+76add0e05beb4e7ea99bda997efd7622,2020-10-14 09:35:20,29,male,6,4,3,3,5,7,6,6,3,3,6,5,6,6,5,6,6,7,5,5,4,5,2,5,3,4,6,3,3,Yes ,2,work,15,Never,Occasionally
+7e732acc694248ceaa3547de5fc77639,2020-10-14 09:42:53,25,Männlich,7,3,2,6,7,7,3,6,7,2,7,6,3,7,7,6,7,7,1,1,1,7,3,6,7,1,7,7,2,Ja ,2,Privater Transport ,0,Selten,Selten
+e204e48fbca64ed9a9aa05a213dc8381,2020-10-14 11:20:28,39,Männlich,4,5,4,3,4,5,4,5,6,6,6,5,4,3,4,3,6,5,5,2,4,6,5,5,5,2,6,6,7,Ja ,10,Privater Transport ,0,Noch Nie,Selten
+8e938189c22b4c168fa65d3174309d91,2020-10-14 11:44:19,21,Männlich,3,1,2,6,3,5,2,6,3,2,3,3,2,2,3,3,5,2,6,6,3,2,2,6,1,2,7,7,5,Ja ,1,Arbeit,10,Selten,Selten
+f4bd3b070a864e38a01dac3bad73caf0,2020-10-14 12:32:19,53,Männlich,5,5,5,5,4,5,4,4,3,5,4,5,5,5,6,5,5,4,3,3,3,5,3,5,3,3,6,5,6,Ja ,10,Arbeit,1,Noch Nie,Selten
+debf0264467d42c1854783622182005c,2020-10-14 13:04:16,46,male,4,3,6,6,6,7,6,5,6,5,6,6,6,6,6,7,4,6,4,2,2,7,5,2,6,6,6,7,5,Yes ,2,work,0,Sometimes,Occasionally
+0a68f111e4f448d3b8279db69cd9df5e,2020-10-14 13:26:12,31,Männlich,5,3,5,7,5,7,4,3,3,7,7,6,4,2,4,7,7,4,3,3,1,4,5,1,4,4,7,6,3,Ja ,2,Privater Transport ,6,Selten,Selten
+b8c478ccbd8044ca83f54b4373cda25d,2020-10-15 10:16:25,31,Männlich,5,4,1,1,1,6,5,6,2,2,6,1,6,6,6,2,1,6,7,3,7,5,5,7,1,1,7,6,7,Ja ,0,Privater Transport ,8,Selten,Selten
+2fe73e7e2534479aa59aeb91635906aa,2020-10-15 10:56:42,24,Weiblich,3,2,1,2,1,5,2,4,2,2,6,3,2,5,2,3,2,5,7,7,6,3,2,6,1,2,7,7,7,Ja ,0,Privater Transport ,0,Noch Nie,Noch Nie
+81957954cd71450cacc5fd738dd9ebd2,2020-10-15 11:27:41,32,Männlich,2,3,2,2,2,2,4,3,3,2,2,4,3,2,3,2,4,6,6,6,6,1,4,6,2,2,6,6,6,Ja ,0,Privater Transport ,2,Noch Nie,Oft
+e65adf07df65405faff00b395537018b,2020-10-15 13:58:07,24,Männlich,3,3,2,3,3,3,4,5,4,2,3,3,3,5,5,5,3,6,5,5,4,3,3,3,2,3,6,6,6,Ja ,2,Privater Transport ,0,Manchmal,Selten
+2f3b9268b6dc4c04a0c77ef79ae52b36,2020-10-15 14:29:37,29,Weiblich,3,6,5,4,6,6,5,5,4,4,6,4,5,4,7,7,6,7,3,4,1,6,5,5,5,5,6,6,5,Ja ,1,zum Vergnügen,1,Selten,Selten
+da49a4ef8443428192674cb184c1eb19,2020-10-15 14:30:03,22,Weiblich,3,2,3,3,1,5,3,5,2,3,3,3,4,5,4,3,4,6,5,7,5,3,3,5,2,3,6,7,7,Ja ,1,Privater Transport ,0,Selten,Noch Nie
+d5daacd8fad2490fa1f12001b725271b,2020-10-15 15:40:24,24,female,7,4,4,2,4,2,7,7,4,5,2,6,4,5,7,6,4,6,5,4,4,6,6,5,6,6,7,6,7, No,0,freetime,0,Never,Never
+bb85c212fe8842ec95b8e3dea2c524b0,2020-10-16 10:18:06,22,Männlich,1,7,6,7,7,7,6,2,7,6,7,6,6,1,6,6,7,1,1,2,1,6,7,3,5,5,7,7,5,Ja ,1,zum Vergnügen,5,Manchmal,Oft
+9d21c3cf1fb64f87a7ee9f6612d31768,2020-10-16 11:33:29,27,Weiblich,5,2,7,7,7,7,6,5,2,6,7,6,7,7,7,7,6,2,2,3,1,7,7,1,4,6,6,7,7,Ja ,0,Privater Transport ,0,Selten,Selten
+e51c62a636934699b9a2b304635ba0fe,2020-10-16 11:33:32,20,Weiblich,5,2,1,2,3,2,4,5,5,1,4,2,3,3,5,2,1,6,7,6,6,2,3,6,2,1,7,7,3,Ja ,2,zum Vergnügen,0,Noch Nie,Noch Nie
+f70e1ed066804da1bf4a900f38d132d3,2020-10-16 12:22:05,28,Männlich,5,3,6,7,4,7,6,2,3,6,6,4,4,2,6,6,2,6,3,6,1,6,3,2,2,3,2,6,2,Ja ,0,Privater Transport ,35,Noch Nie,Selten
+a57132e2aeba484e8433ae8af9b1abbc,2020-10-16 12:24:09,22,Weiblich,2,6,6,4,4,2,4,2,3,3,7,6,4,1,2,4,2,4,6,6,6,3,2,4,2,3,7,7,7,Ja ,8,Arbeit,0,Noch Nie,Selten
+472bf3fb08d24c6db3d76964534665ab,2020-10-16 12:51:00,18,Weiblich,4,3,2,1,1,1,2,2,4,2,6,5,4,5,4,5,4,7,7,5,6,2,1,7,2,1,7,7,6,Ja,7,Arbeit,0,Noch Nie,noch nie
+0ed7464df24848a68bcc2dfd1ec58f29,2020-10-16 13:21:39,19,Weiblich,2,6,6,5,5,6,5,5,4,5,6,3,6,2,7,5,7,6,3,5,3,4,3,2,6,4,6,3,6,Ja ,2,Privater Transport ,1,Noch Nie,Manchmal
+2763d041b30741d583498734a8ed3361,2020-10-16 15:21:37,20,Weiblich,4,3,5,5,5,5,3,5,3,5,7,4,5,3,3,5,5,5,5,5,3,2,2,5,3,3,6,6,3,Ja ,1,Privater Transport ,0,Noch Nie,Selten
+5c776e10348f4e3589cfc57be88546d2,2020-10-16 15:30:19,25,Männlich,5,2,3,5,7,6,4,2,7,7,7,4,5,6,7,7,7,4,4,3,1,7,7,4,3,2,7,7,4,Ja ,2,Privater Transport ,10,Noch Nie,Selten
+d0177d0096d34d79ad20632ce2de1683,2020-10-16 16:24:45,19,Männlich,2,3,3,3,6,3,3,6,2,4,5,6,3,2,5,5,5,6,5,5,5,5,4,6,2,3,6,6,6,Ja ,5,Privater Transport ,2,Selten,Selten
+ef0636bf75a345fd937f66a883b23c4d,2020-10-16 16:43:18,33,female,4,3,4,4,3,5,5,3,3,3,1,3,5,5,3,3,3,5,4,5,6,4,5,5,4,3,6,3,4,Yes ,2,work,2,Never,Never
+9b9220b8bf8c4e61adde8bc7571540ef,2020-10-17 12:04:10,47,Männlich,4,4,4,7,7,7,1,1,4,1,7,7,4,4,4,7,7,1,3,1,1,7,7,2,2,1,7,7,7,Ja ,8,Arbeit,0,Noch Nie,Noch Nie
+3358f368d8694472a86c4770d4f804bc,2020-10-17 13:55:36,60,Weiblich,1,1,1,1,1,1,1,2,1,1,7,2,1,1,2,1,1,2,7,7,7,1,1,4,1,1,7,7,6,Ja ,1,Privater Transport ,0,Noch Nie,Noch Nie
+cb5d0147ad15497680895773bcb2d217,2020-10-17 14:05:55,24,Männlich,5,5,6,3,5,2,4,4,2,4,5,3,6,1,4,1,3,1,2,1,2,6,7,4,2,3,7,7,6,Ja ,0,Privater Transport ,4,Selten,Manchmal
+7a9e89e5a21a442d93c88707c1585d1d,2020-10-17 14:16:07,61,Männlich,1,1,1,1,2,1,1,5,1,1,7,5,1,1,1,1,2,2,7,7,7,1,1,6,1,7,6,6,6,Ja ,3,Arbeit,0,Noch Nie,Noch Nie
+e5a628df7e514b288fb6c6024f32e6d8,2020-10-17 19:04:54,31,male,3,4,5,6,5,7,6,7,2,2,6,2,5,5,6,7,7,7,3,5,2,4,2,6,4,3,7,7,7,Yes ,2,freetime,10,Never,Never
+28191a22a70d478b808eb8905e35c6ba,2020-10-19 10:11:00,21,Männlich,5,4,6,5,6,6,5,3,4,5,5,6,5,5,5,5,5,4,3,3,2,5,4,3,5,3,7,6,6,Ja,1,Privater Transport ,20,Noch Nie,Manchmal
+44f89a79bcd2474781bb53db168050a6,2020-10-19 10:45:08,20,Männlich,6,4,6,6,6,7,4,6,5,5,5,6,4,1,6,5,6,6,6,5,2,7,7,5,3,3,2,7,6,Ja ,0,Privater Transport ,0,Selten,Selten
+91519bcefe1844d595ff7317c00b0351,2020-10-19 11:16:00,20,Weiblich,2,4,1,1,1,5,5,4,4,1,3,2,1,3,5,3,5,7,7,6,2,2,1,7,2,1,7,7,7,Ja,8,Privater Transport ,0,Selten,Noch Nie
+ac50cb2dbe784eca9f86d1a424a3cf04,2020-10-19 11:23:46,19,Männlich,4,7,3,3,3,4,3,5,7,3,7,5,6,6,7,5,6,4,3,2,3,7,7,2,4,5,6,3,6,Ja ,2,zum Vergnügen,0,Selten,Selten
+a11a6bbf0bf8498c8eeb4118920209db,2020-10-19 11:54:46,19,Männlich,7,4,6,7,7,7,7,7,5,6,7,6,7,7,7,7,7,4,2,2,1,7,7,3,4,4,6,6,6,Ja ,2,Privater Transport ,1,Noch Nie,Noch Nie
+8e03eb1671774d3d9a35f97178902a45,2020-10-19 12:23:35,23,Weiblich,3,5,6,6,6,6,6,3,5,6,6,5,4,7,5,6,6,6,5,5,2,4,3,3,3,3,6,6,6,Ja ,2,zum Vergnügen,0,Noch Nie,Noch Nie
+d093379ce1224f1bb24b9730da105927,2020-10-19 12:24:19,19,Weiblich,3,3,5,5,6,5,3,6,3,5,6,5,5,5,5,5,5,6,3,3,2,6,5,3,3,3,7,5,6,Ja ,2,Privater Transport ,1,Noch Nie,Selten
+59e4db01ce4540939cc86023711c3994,2020-10-19 12:47:34,18,Männlich,5,5,3,4,3,5,3,6,5,3,6,3,3,6,3,3,5,5,5,3,3,6,5,5,3,3,6,5,5,Ja ,3,Privater Transport ,1,Selten,Selten
+27ee7a0bfc2840e38225f653232d1487,2020-10-19 14:21:57,22,Männlich,2,3,3,4,3,4,3,3,5,4,3,1,2,2,3,4,4,3,6,6,5,5,2,6,1,2,7,5,5,Ja ,0,Privater Transport ,0,Noch Nie,Selten
+87ad7392b6694a8da6744cbe03b1d263,2020-10-19 15:17:16,20,Weiblich,5,1,2,2,2,2,3,2,2,2,5,6,2,6,1,2,3,2,7,7,6,1,1,7,1,1,7,7,7,Ja ,6,Privater Transport ,0,Noch Nie,Noch Nie
+5fe54d902792467181089d8e4a73b80c,2020-10-20 09:26:34,22,Weiblich,4,2,4,6,7,6,2,5,7,2,5,5,5,5,3,7,7,6,5,6,3,3,4,6,3,3,7,7,7,Ja ,0,zum Vergnügen,0,Selten,Noch Nie
+b89680ab48514db8bca8fcca1852f36d,2020-10-20 10:25:52,20,female,4,5,3,3,3,3,4,5,2,2,2,4,3,5,5,4,3,5,6,6,6,2,2,5,3,2,7,6,6, No,0,work,0,Never,Never
+f820d1c1117c4255a529f527c6c82d1f,2020-10-20 10:41:01,19,Männlich,5,2,3,6,5,6,6,6,4,7,7,4,3,6,6,7,6,7,7,6,2,5,5,7,2,1,7,6,7,Ja ,2,zum Vergnügen,15,Manchmal,Selten
+fa4ca90c5b80445b9af0b7ec4fbcc124,2020-10-20 11:20:35,24,Männlich,6,3,5,5,6,5,5,5,2,3,5,4,4,5,6,6,5,7,5,5,2,6,5,5,3,3,5,6,3,Ja ,1,Privater Transport ,2,Selten,Selten
+c546bbc81ecb479bba2e85f9d19850cb,2020-10-20 11:21:47,22,Weiblich,4,4,5,5,4,5,3,5,6,4,5,4,4,2,3,4,5,3,5,5,3,3,3,4,4,4,5,5,5,Ja ,1,Privater Transport ,0,Noch Nie,Selten
+6272855738e14a46adbc93ebd79ca82e,2020-10-20 11:43:27,23,Männlich,5,4,7,4,4,7,6,4,6,5,7,6,6,2,6,4,7,2,2,4,2,6,6,2,6,6,7,7,7,Ja ,0,Privater Transport ,7,Selten,Noch Nie
+97fa63f17b4f4fd98355731cb513f5d4,2020-10-20 12:31:10,23,Weiblich,5,3,6,5,3,3,4,5,4,5,5,5,5,3,4,3,6,7,6,5,1,2,3,2,3,5,7,7,5,Ja ,0,Privater Transport ,0,Selten,Selten
+50bc84deece34316bc3b8e5bb5829a68,2020-10-20 12:32:33,19,Männlich,4,4,5,7,3,5,4,3,6,6,6,3,4,2,5,4,2,6,3,6,4,7,4,3,3,2,7,7,7,Ja ,0,zum Vergnügen,0,Noch Nie,Noch Nie
+ef2e9fc68dc5486084a0cc170db5462b,2020-10-20 12:55:12,21,Weiblich,5,4,1,2,6,3,1,6,1,1,2,3,3,3,3,4,3,7,7,7,5,2,3,4,3,2,6,5,5,Ja ,0,Privater Transport ,0,Selten,Noch Nie
+8503c9e911d6446591ef74f25077292c,2020-10-20 13:24:12,19,Weiblich,4,3,3,2,5,2,4,4,3,3,3,5,3,2,5,5,5,3,6,6,7,4,3,7,2,5,7,6,2,Ja ,1,Arbeit,0,Noch Nie,Noch Nie
+39e38c2aa06c42d79e50f36b631f9652,2020-10-20 14:18:00,27,Männlich,5,3,2,4,3,5,2,2,3,3,3,4,3,1,2,5,2,5,6,6,3,3,2,5,3,4,7,6,7,Ja,4,zum Vergnügen,6,Noch Nie,Selten
+ac80f2bb91324d71a06cc6dd9a8e2c9d,2020-10-20 15:54:29,29,Weiblich,4,3,4,4,4,4,4,5,4,3,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,7,7,7,Ja ,3,Privater Transport ,2,Noch Nie,Noch Nie
+e113171c2c8c48679e92a0e241b31060,2020-10-20 15:55:42,26,Weiblich,4,1,3,7,5,6,3,1,3,1,7,2,4,1,5,4,7,4,3,2,1,5,6,3,5,2,7,7,7,Ja ,0,Privater Transport ,8,Noch Nie,Selten
+a3191bcead8a4e278ff5b8927b89faf9,2020-10-20 16:25:28,46,Männlich,2,2,2,2,2,1,2,7,2,2,4,2,1,2,2,2,2,2,6,6,6,1,2,7,2,2,7,7,6,Ja ,20,Arbeit,0,Noch Nie,Noch Nie
+7c4a213768e645e4a46f4317ad87d76d,2020-10-21 09:43:54,37,Männlich,5,5,5,3,6,7,4,5,3,5,6,5,6,4,6,5,6,6,5,2,5,7,6,6,4,3,7,7,6,Ja ,3,Privater Transport ,0,Noch Nie,Selten
+7b1f3e040a654bb7afff67a711e46081,2020-10-21 09:48:10,23,Männlich,5,4,5,6,2,6,6,6,6,3,7,4,6,6,6,6,7,6,2,1,5,7,6,2,6,6,7,6,6,Ja ,0,Privater Transport ,0,Selten,Selten
+42beaff8c918437dbb34a33f80c90674,2020-10-21 10:12:04,30,Weiblich,5,5,5,4,5,3,2,5,4,4,6,5,4,2,5,4,7,4,4,2,6,3,4,4,5,4,7,7,7,Ja ,0,Privater Transport ,0,Selten,Selten
+0956f0cca5f546d79a0cf4fbae23d496,2020-10-21 10:35:03,19,Weiblich,7,1,7,6,7,7,7,2,7,4,7,3,7,7,7,6,2,7,2,5,1,7,7,1,6,6,6,3,6,Ja ,2,Privater Transport ,0,Selten,Selten
+f78cb865f76b4ce4879083715f112d91,2020-10-21 10:35:56,21,Weiblich,4,5,5,7,7,7,6,4,4,5,7,5,4,5,6,6,3,4,3,3,1,5,6,4,4,4,7,6,6,Ja ,5,Privater Transport ,15,Noch Nie,Selten
+f767840dc9b94eeabb8d0cfb2a5da57c,2020-10-21 11:37:28,22,Männlich,2,3,1,1,1,2,3,2,1,2,2,2,1,3,2,2,6,5,7,6,7,2,1,7,2,1,7,7,7,Ja ,5,Privater Transport ,14,Selten,Selten
+4ed7e605b1614ccc98269519940f6965,2020-10-21 13:29:23,28,Männlich,5,5,3,6,5,5,5,5,5,3,6,3,3,3,3,6,3,5,7,6,2,3,5,5,2,3,7,7,7,Ja ,5,Privater Transport ,4,Manchmal,Selten
+0d0d7bd79b1a48d4ad5e757cdbfc15c9,2020-10-21 14:32:38,19,Männlich,5,5,5,5,5,5,5,2,5,5,4,7,5,5,5,5,6,3,3,2,3,5,5,4,5,6,6,6,6, Nein,0,Privater Transport ,0,Noch Nie,Noch Nie
+6f36a58eb7d843a593a01191c53bc0d0,2020-10-21 14:33:51,37,Männlich,5,3,3,6,3,5,5,3,3,4,2,3,3,4,3,6,6,5,7,7,5,3,3,6,3,3,7,6,5,Ja ,2,Privater Transport ,0,Noch Nie,Selten
+bfa47a32481e49b2b8ef5af3f44289c9,2020-10-21 15:31:08,26,Männlich,6,2,5,5,5,6,6,6,2,3,6,5,3,5,5,5,5,4,6,3,3,2,3,5,2,2,7,7,6,Ja ,5,zum Vergnügen,10,Selten,Selten
+beaea101b49242a183285032cc6357ea,2020-10-21 16:29:47,18,Weiblich,3,3,4,6,3,5,5,6,6,5,6,6,3,4,5,5,4,4,5,6,1,3,3,4,1,2,7,7,7,Ja ,3,Privater Transport ,0,Noch Nie,Selten
+ccb6fbce179d456c892ce2e029dd7fd1,2020-10-21 16:30:09,18,Weiblich,4,6,4,6,6,7,6,4,5,6,7,6,4,5,4,4,6,2,5,5,2,5,5,5,3,3,7,5,7,Ja ,3,Privater Transport ,4,Selten,Selten
+e01b2bb34b88409ab72849f4ae52277a,2020-10-22 10:02:04,29,Männlich,4,5,5,3,5,7,6,7,7,4,5,6,5,5,5,4,6,2,2,3,2,6,6,6,4,5,7,7,7,Ja ,1,Arbeit,15,Selten,Selten
+806565e397a2453d8287d04d059399de,2020-10-22 10:33:54,20,Männlich,5,5,7,6,7,6,5,7,7,6,5,4,4,3,3,6,6,6,2,1,1,2,2,1,6,6,7,5,3, Nein,1,Privater Transport ,0,Noch Nie,Selten
+befb23eb943c405b8183bd39f5d9d102,2020-10-22 11:25:25,21,Männlich,6,4,3,4,5,6,5,3,3,4,5,3,4,3,5,4,5,3,2,3,3,6,6,5,3,3,7,6,6,Ja ,5,Privater Transport ,10,Selten,Selten
+c2029d7960134ff6853f6ae4b9f9ae84,2020-10-22 12:29:53,26,Männlich,6,1,2,6,6,3,3,3,6,2,5,5,1,2,4,4,6,7,7,7,5,3,4,7,2,1,2,4,3, Nein,0,Arbeit,12,Noch Nie,Manchmal
+47a3b1dd7c6b41cd875935c7049d97d6,2020-10-22 12:52:37,19,Weiblich,5,5,4,5,3,2,7,6,2,5,3,5,3,5,4,2,3,5,6,6,6,5,7,6,3,2,7,7,7,Ja ,5,Privater Transport ,5,Noch Nie,Selten
+1137044be4694bb1a6dc0b6185f8292b,2020-10-22 12:58:56,19,Weiblich,6,5,6,6,4,5,4,7,4,5,3,5,6,7,7,6,7,4,1,5,3,3,6,4,6,4,6,7,5,Ja ,2,Privater Transport ,0,Selten,Selten
+324c3a0db2a64dc1ae182ed9d5911f00,2020-10-22 15:28:17,28,Männlich,2,3,3,5,3,5,2,3,2,3,3,5,3,2,2,4,6,6,6,5,3,3,2,7,2,3,7,6,3, Nein,0,Privater Transport ,50,Selten,Selten
+1e5683fcc68a45bfa0e4d4454f6a01c0,2020-10-23 14:26:08,18,Männlich,5,6,7,3,3,7,6,6,5,2,5,6,5,2,6,2,5,6,3,3,3,5,5,3,5,3,7,6,3,Ja ,4,Privater Transport ,5,Noch Nie,Noch Nie
+973efd2d86b64b7db7d5cc3f3f3725b2,2020-10-23 14:31:00,17,Weiblich,4,3,6,3,5,3,2,7,5,5,6,6,7,2,2,3,5,6,2,1,3,5,6,2,6,7,7,7,6,Ja ,3,Privater Transport ,0,Noch Nie,Noch Nie
+f9c6ff61370141c89ea9bbc536d796e1,2020-10-23 14:49:49,48,Weiblich,5,5,5,4,5,4,4,6,4,5,4,5,6,4,6,4,6,5,5,2,3,7,5,2,4,4,7,6,5,Ja ,15,Arbeit,0,Selten,Noch Nie
+f22dfb43e26d43068a9be221468d85dc,2020-10-23 15:26:23,22,Männlich,2,6,4,6,5,3,4,6,3,5,7,5,5,6,6,5,4,6,4,3,2,6,6,4,4,4,7,7,7,Ja ,1,Privater Transport ,8,Oft,Selten
+68dee417b7c6402e80e3001a8d07ac53,2020-10-23 15:30:19,19,Männlich,3,5,6,6,6,7,6,7,5,4,7,7,4,6,6,2,7,7,2,2,1,7,7,3,6,4,5,4,4,Ja ,10,Privater Transport ,20,Manchmal,Manchmal
+8fa9f3c28edc4b2a88556096f09ec8cb,2020-10-23 16:27:11,21,Weiblich,3,3,3,5,3,5,3,5,3,6,7,5,4,1,3,5,6,3,7,6,2,3,2,5,3,3,6,5,5,Ja ,1,Privater Transport ,0,Selten,Selten
+4143d634d142409fabd7e43e8d4fe7a8,2020-10-23 17:27:27,19,Weiblich,2,5,7,7,6,6,5,6,7,2,3,7,5,2,6,5,2,2,2,3,3,6,6,3,5,6,7,7,3, Nein,0,Arbeit,0,Noch Nie,Selten
+46b71f8b8f2d44c9be998a771c7815c9,2020-10-23 17:32:50,23,Männlich,4,4,2,1,3,6,5,6,2,1,7,4,4,2,7,7,7,4,6,3,3,3,3,7,1,2,7,7,7,Ja ,1,Privater Transport ,0,Noch Nie,Selten
+50eb41004c744ed08237419b9cd2abd3,2020-10-24 14:27:39,29,Männlich,2,2,7,5,7,7,7,6,1,7,7,6,5,2,4,7,7,7,1,1,2,7,7,2,7,2,7,7,6,Ja ,3,Privater Transport ,10,Oft,Selten
+47e5b0cb9fca4c5c9748b9e03e63a9a7,2020-10-24 14:30:44,27,Männlich,3,4,3,3,4,3,2,4,3,1,5,5,2,6,3,7,7,7,5,5,2,2,3,6,1,4,7,7,7,Ja ,1,Privater Transport ,8,Selten,Selten
+c47cc5dba3834b91899cc20534e0f7be,2020-10-24 14:59:04,27,Männlich,5,2,2,5,5,7,1,3,1,2,7,7,3,1,1,4,4,4,6,7,1,5,4,2,3,5,7,7,7,Ja ,4,zum Vergnügen,60,Oft,Selten
+e90c87a9ba554b8a96331451052c1ece,2020-10-24 15:24:17,26,male,1,4,2,1,2,6,1,5,4,1,6,4,1,6,1,7,6,7,7,4,1,1,2,6,3,4,4,7,7,Yes ,2,freetime,24,Occasionally,Occasionally
+d18584bc440c4900ab9677fd5c411dc5,2020-10-24 21:14:57,22,Männlich,2,6,2,2,5,7,3,6,7,4,7,2,4,1,3,2,3,5,3,6,1,3,4,4,2,1,5,5,6,Ja ,8,Arbeit,2,Noch Nie,Selten
+fa1e10f3495d49f69ee05224e4eaec4f,2020-10-24 21:20:36,22,Männlich,3,2,3,2,5,5,6,5,5,5,4,5,6,6,5,4,4,6,3,4,3,5,4,3,5,4,6,6,3,Ja ,5,Privater Transport ,2,Noch Nie,Selten
+1d0296054e434021b3aa2b47b6c7d921,2020-10-24 21:42:34,21,Weiblich,3,2,5,3,6,1,6,7,1,5,4,6,3,1,3,3,3,5,7,5,6,3,3,6,3,2,7,7,7,Ja ,1,zum Vergnügen,0,Noch Nie,Noch Nie
+95e8781012c94d37a222b5679724cb1d,2020-10-24 21:45:43,21,Weiblich,4,5,5,3,5,6,5,4,4,4,6,7,2,5,4,6,3,4,6,4,1,2,3,2,2,6,7,6,7,Ja ,4,Arbeit,0,Selten,Manchmal
+d42cd09ca7ea439cbb32c62c4353b7dc,2020-10-26 11:46:19,24,Weiblich,4,4,5,5,3,5,4,4,4,4,3,5,4,3,5,6,6,4,5,3,4,3,3,5,4,3,7,6,6,Ja ,1,Privater Transport ,3,Selten,Selten
+1b72788aabfc4b6794b3ff9ce0e9d1cd,2020-10-27 14:53:06,22,Weiblich,4,4,4,4,4,3,4,6,3,3,5,6,4,3,4,4,2,7,3,7,3,1,2,3,4,5,7,7,6,Ja ,0,Privater Transport ,0,Selten,Noch Nie
+0121f5b2f59d434f8beb17bf3e2a80b9,2020-10-27 15:35:19,22,female,3,5,2,6,3,6,1,3,1,2,7,6,2,2,5,5,3,4,7,6,1,2,2,7,1,1,6,5,6,Yes ,7,work,0,Occasionally,Never
+5da827b55d1e429daa583641b19e4951,2020-10-27 17:07:49,28,Männlich,6,7,6,5,5,6,5,5,1,5,7,1,5,3,2,2,7,2,4,5,2,2,2,3,4,5,7,5,6,Ja ,2,Privater Transport ,0,Manchmal,Selten
+4858c7aa9362421988e7c88d5adae755,2020-10-27 17:46:29,21,Weiblich,6,7,6,6,6,7,4,2,7,6,7,5,7,2,3,6,7,7,2,2,1,5,6,2,6,6,7,5,7,Ja ,8,Arbeit,5,Noch Nie,Selten
+eadeee63de7f40a4b4375733651d5dd1,2020-10-30 15:25:19,4,Intersex,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Ja ,4,zum Vergnügen,4,Manchmal,Manchmal
+22d6fdd77f704e00aa350bf02adc9bc3,2020-11-27 13:04:11,24,Weiblich,2,4,4,6,4,7,6,4,4,3,7,7,3,2,5,5,7,7,4,5,1,5,6,6,3,5,7,6,2,Ja ,0,Privater Transport ,0,Selten,Noch Nie
+a8f38db959114af0b49322bf0238a0a8,2020-12-03 12:01:32,22,Weiblich,6,6,5,5,5,6,5,3,5,4,4,5,5,6,6,3,5,5,3,3,2,6,6,3,6,5,6,6,6,Ja ,0,Privater Transport ,2,Manchmal,Selten
+e02a32edf7494874b489598a611bd443,2020-12-07 12:45:29,23,Weiblich,4,4,4,6,5,3,3,5,5,5,6,6,3,2,2,6,6,3,7,5,1,3,5,5,3,6,7,6,6,Ja ,1,Privater Transport ,0,Selten,Selten
+9af67bd8dba94cf599f830105cc0a5ab,2020-12-10 13:29:06,29,Weiblich,4,1,4,7,6,7,1,1,4,5,7,7,1,1,4,7,7,1,1,1,1,4,4,1,4,4,7,7,7,Ja ,0,Arbeit,2,Selten,Manchmal
+5b086469856442e8abac0651c33e2c8e,2020-12-10 15:59:10,30,Weiblich,4,7,6,6,6,7,5,5,6,4,3,5,7,3,4,4,6,4,2,2,2,7,7,4,5,6,7,5,6,Ja ,3,Privater Transport ,0,Selten,Selten
+240d3d0b36a34accb42f0d98d27fd744,2020-12-10 16:56:54,22,Weiblich,4,3,2,1,1,3,3,2,5,3,6,3,1,3,1,2,3,5,7,7,2,1,2,7,1,1,7,7,7,Ja ,0,Privater Transport ,12,Manchmal,Selten
+,,31,Weiblich,7,5,6,4,6,7,7,7,5,7,7,6,7,7,7,7,7,7,1,5,1,7,4,1,7,7,7,7,2,Ja,4,Privater Transport ,9,Manchmal,Selten
+7eac08e3922d4e41834972c86e75e432,2021-01-14 16:36:45,33,female,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,Yes ,2,work,2,Occasionally,Occasionally
